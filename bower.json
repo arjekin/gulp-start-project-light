@@ -1,0 +1,23 @@
+{
+  "name": "startproject-bower",
+  "description": "default gulp project bower",
+  "main": "index.js",
+  "authors": [
+    "Gridasov"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "normalize-css": "^7.0.0"
+  }
+}
